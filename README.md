@@ -1,7 +1,7 @@
 <h1 align="center">✨ Olá, eu sou Aline! 👋</h1>
 
 <p align="center">
-💻 Desenvolvedora em formação | 🌱 Aprendendo programação, lógica e redes | 🚀 Explorando o universo da tecnologia  
+💻 Desenvolvedora em formação | 🌱 Aprendendo algoritmos, lógica e redes | 🚀 Explorando o universo da tecnologia  
 </p>
 
 ---
@@ -39,8 +39,12 @@ Atualmente estudando **Lógica de Programação, C, Python, Javascript e fundame
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maalineramos&show_icons=true&theme=dracula" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maalineramos&layout=compact&theme=dracula" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=maalineramos&show_icons=true&theme=dracula&locale=pt-br" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maalineramos&layout=compact&theme=dracula&locale=pt-br" height="165">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maalineramos&theme=dracula&locale=pt-br" height="165">
 </p>
 
 ---
