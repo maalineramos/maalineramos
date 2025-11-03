@@ -1,7 +1,7 @@
 <h1 align="center">✨ Olá, eu sou Aline! 👋</h1>
 
 <p align="center">
-💻 Desenvolvedora em formação | 🌱 Aprendendo C, lógica e redes | 🚀 Explorando o universo da tecnologia  
+💻 Desenvolvedora em formação | 🌱 Aprendendo programação, lógica e redes | 🚀 Explorando o universo da tecnologia  
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 🧩 Sobre mim
 Sou movida pela curiosidade e pela vontade de entender **como as coisas funcionam por baixo do capô**.  
 Apaixonada por desafios lógicos, gosto de resolver problemas e transformar ideias em código.  
-Atualmente estudando **Lógica de Programação, C e fundamentos de computação**, com interesse em **back-end, redes e infraestrutura**.  
+Atualmente estudando **Lógica de Programação, C, Python, Javascript e fundamentos de computação**, com interesse em **back-end, redes e infraestrutura**.  
 
 > “Programar é dar forma ao invisível — e aprender, todos os dias, a conversar com a máquina e com a gente mesma.”
 
