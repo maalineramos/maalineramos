@@ -63,4 +63,8 @@ Atualmente estudando **Lógica de Programação, C, Python, JavaScript e fundame
 
 ---
 
-<p align="center">✨ “Aprender é o verdadeiro superpoder.” ✨</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F8C8DC&center=true&vCenter=true&width=420&lines=Feito+com+💻+e+☕+por+Aline;Evoluindo+entre+commits+e+desafios;Codando+sonhos+em+realidade;Aprendendo+um+pouco+mais+todo+dia;Transformando+lógica+em+arte;Aprendendo,+errando+e+evoluindo;Transformando+lógica+em+arte" />
+
+</p>
+
