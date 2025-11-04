@@ -47,9 +47,9 @@ Atualmente estudando **Lógica de Programação, C, Python, JavaScript e fundame
 
 ### 🐍 Minhas Contribuições
 
-<p align="center">
-  ![Snake animation](https://github.com/maalineramos/maalineramos/blob/output/github-contribution-grid-snake.svg)
-</p>
+<div align="center">
+  <img src="https://github.com/maalineramos/maalineramos/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
 
 ---
 
