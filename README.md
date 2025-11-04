@@ -9,7 +9,7 @@
 ### 🧩 Sobre mim
 Sou movida pela curiosidade e pela vontade de entender **como as coisas funcionam por baixo do capô**.  
 Apaixonada por desafios lógicos, gosto de resolver problemas e transformar ideias em código.  
-Atualmente estudando **Lógica de Programação, C, Python, Javascript e fundamentos de computação**, com interesse em **back-end, redes e infraestrutura**.  
+Atualmente estudando **Lógica de Programação, C, Python, JavaScript e fundamentos de computação**, com interesse em **back-end, redes e infraestrutura**.  
 
 > “Programar é dar forma ao invisível — e aprender, todos os dias, a conversar com a máquina e com a gente mesma.”
 
@@ -43,7 +43,13 @@ Atualmente estudando **Lógica de Programação, C, Python, Javascript e fundame
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maalineramos&layout=compact&theme=dracula&locale=pt-br" height="165">
 </p>
 
+---
 
+### 🐍 Minhas Contribuições
+
+<p align="center">
+  <img src="https://github.com/maalineramos/maalineramos/blob/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
 
 ---
 
@@ -52,7 +58,6 @@ Atualmente estudando **Lógica de Programação, C, Python, Javascript e fundame
 <p align="center">
   <a href="mailto:ma.alineramos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mariaalineramos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/maalineramos"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://discordapp.com/users/1000989763102310460"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
