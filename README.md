@@ -21,9 +21,10 @@ Atualmente estudando **Lógica de Programação, C, Python, JavaScript e fundame
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNDAiIGhlaWdodD0iMjgwIiB2aWV3Qm94PSIwIDAgMjQwIDI4MCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTM5LjQgMjUuNGgxNjFMMTc2LjMgMjM5LjggMTE5LjkgMjU2LjcgNjMuNSAyMzkuOCAzOS40IDI1LjR6Ii8+PHBhdGggZmlsbD0iIzEzM2VkZiIgZD0iTTEyMCA0Mi44VjI0Mmw1Ny40LTE2LjggNy44LTg0LjFoLTY1LjJWNDIuOHoiLz48L3N2Zz4=&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 ---
