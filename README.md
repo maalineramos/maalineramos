@@ -11,7 +11,7 @@ Sou movida pela curiosidade e pela vontade de entender **como as coisas funciona
 Apaixonada por desafios lógicos, gosto de resolver problemas e transformar ideias em código.  
 Atualmente estudando **Lógica de Programação, C, Java, Python, JavaScript e fundamentos de computação**, com interesse em **back-end, redes e infraestrutura**.  
 
-> “Programar é dar forma ao invisível — e aprender, todos os dias, a conversar com a máquina e com nós mosmos.”
+> “Programar é dar forma ao invisível — e aprender, todos os dias, a conversar com a máquina e com nós mesmos.”
 
 ---
 
