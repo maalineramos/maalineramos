@@ -9,7 +9,7 @@
 ### 🧩 Sobre mim
 Sou movida pela curiosidade e pela vontade de entender **como as coisas funcionam por baixo do capô**.  
 Apaixonada por desafios lógicos, gosto de resolver problemas e transformar ideias em código.  
-Atualmente estudando **Lógica de Programação, C, Java, Python, JavaScript e fundamentos de computação**, com interesse em **back-end, redes e infraestrutura**.  
+Atualmente estudando **Lógica de Programação, C, Java, Python, JS, API's RESTFul e fundamentos de computação**, com interesse em **back-end, redes e infraestrutura**.  
 
 > “Programar é dar forma ao invisível — e aprender, todos os dias, a conversar com a máquina e com nós mesmos.”
 
@@ -61,6 +61,7 @@ Atualmente estudando **Lógica de Programação, C, Java, Python, JavaScript e f
   <a href="mailto:ma.alineramos@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mariaalineramos/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://discordapp.com/users/1000989763102310460"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://instagram.com/SEU_USUARIO](https://www.instagram.com/alinie.ramos/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
